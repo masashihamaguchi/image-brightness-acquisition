@@ -6,14 +6,14 @@
 2. Pythonの実行環境を準備
 
 ## How to Use
-1. `images`フォルダに輝度を取得したい画像を配置
+1. `images`フォルダに輝度を取得したい画像を配置します。
 
-2. Terminalやコマンドプロンプトを開いて、プログラムがあるディレクトリまで移動
+2. Terminalやコマンドプロンプトを開いて、プログラムがあるディレクトリまで移動します。
 ```
 $ cd .../image-brightness-acquisition
 ```
 
-3. `main.py`ファイルを実行する
+3. `main.py`ファイルを実行します。
 ```
 $ python main.py
 ```
